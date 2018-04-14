@@ -2011,9 +2011,9 @@ body {
   color: #0b16ac;
 }
 .cid-qPeqDFmjGY {
-  padding-top: 120px;
+  padding-top: 90px;
   padding-bottom: 0px;
-  background-color: #149dcc;
+  background-color: #55b4d4;
 }
 .cid-qPeqDFmjGY H2 {
   text-align: center;
@@ -2024,7 +2024,7 @@ body {
 .cid-qPeJ8Nyrn1 {
   padding-top: 30px;
   padding-bottom: 60px;
-  background-color: #149dcc;
+  background-color: #55b4d4;
 }
 @media (max-width: 767px) {
   .cid-qPeJ8Nyrn1 .content {
@@ -2104,4 +2104,7 @@ body {
 }
 .cid-qPeJ8Nyrn1 .google-map[data-state="loading"] [data-state-details] {
   display: none;
+}
+.cid-qPeJ8Nyrn1 P {
+  color: #000000;
 }
