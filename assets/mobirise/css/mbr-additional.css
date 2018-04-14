@@ -2007,8 +2007,11 @@ body {
   overflow: hidden;
 }
 .cid-qPezYf6M7N .card-title {
-  text-align: left;
+  text-align: center;
   color: #0b16ac;
+}
+.cid-qPezYf6M7N P {
+  color: #000000;
 }
 .cid-qPeqDFmjGY {
   padding-top: 90px;
