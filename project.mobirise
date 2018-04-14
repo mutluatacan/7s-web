@@ -1029,7 +1029,7 @@
               }
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_name": "footer2",
